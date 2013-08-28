@@ -1,0 +1,6 @@
+INDEX VERSION 1.126 OT2+C:\GitHub\facebook-tutorial\.metadata\.plugins\org.eclipse.jdt.core
+3733832246.index
+1770737509.index
+3352491446.index
+383545601.index
+2084155717.index
